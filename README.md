@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm a Software Engineer from Egypt</h3>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KareemHemaly&theme=dark&width=1000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2CDD47&ring=DD2727&dates=11B7DD)](https://git.io/streak-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemhemaly&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhemaly" /> </p>
 
 - 🔭 I’m currently working on [Finsmart](https://app.finsmart.pe/)
@@ -11,8 +13,6 @@
 - 💬 Ask me about **JavaScript, and Angular**
 
 - 📫 How to reach me **kareem.hemaly8@gmail.com**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KareemHemaly&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2CDD47&ring=DD2727&dates=11B7DD)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
