@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemhemaly&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhemaly" /> </p>
 
-- 🔭 I’m currently working on [Finsmart](https://app.finsmart.pe/)
+- 🔭 I’m currently working on [Finsmart's App](https://app.finsmart.pe/)
 
 - 🌱 I’m currently learning **Clean Architecture, Design Patterns, and Algorithms**
 
