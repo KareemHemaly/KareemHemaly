@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **kareem.hemaly8@gmail.com**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KareemHemaly&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2CDD47&ring=DD2727&dates=11B7DD)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kareem-hemaly-514086155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem hemaly" height="30" width="40" /></a>
