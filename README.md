@@ -27,6 +27,7 @@ currently leading a team of 6 engineers at Finsmart Peru building a financial pl
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/kareem-hemaly-514086155)
-&nbsp;
-📫 kareem.hemaly8@gmail.com
+<a href="https://linkedin.com/in/kareem-hemaly-514086155">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" height="20" />
+</a>
+&nbsp; kareem.hemaly8@gmail.com
