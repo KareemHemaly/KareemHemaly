@@ -25,6 +25,12 @@ currently leading a team of 6 engineers at Finsmart Peru building a financial pl
 
 ---
 
+### Available for
+
+I take on select consulting and advisory work: architecture reviews, system design, code reviews and mentoring. Book a call on [Topmate](https://topmate.io/kareem_hemaly).
+
+---
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Hemaly-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-hemaly-514086155)
