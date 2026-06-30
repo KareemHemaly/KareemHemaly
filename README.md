@@ -2,7 +2,7 @@
 
 Senior Software Engineer & Technical Lead based in Cairo, Egypt.  
 I specialize in software architecture — DDD, CQRS, Event-Driven Microservices, and Clean Architecture —  
-currently leading a team of 6 engineers at Finsmart Peru building a financial platform for 10,000+ enterprise users.
+currently working at Finsmart Peru building a financial platform for 10,000+ enterprise users.
 
 ---
 
